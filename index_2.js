@@ -7,3 +7,6 @@ document.getElementById("countup").onclick = function () {
 
 const paragraph = document.querySelectorAll("p")
 alert(paragraph[1])
+
+let hello = "hello"
+let hllo2 = "hellohello"
